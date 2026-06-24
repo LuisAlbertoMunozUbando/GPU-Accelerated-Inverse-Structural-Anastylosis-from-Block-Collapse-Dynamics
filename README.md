@@ -11,7 +11,7 @@
 **Jenga Inverse Predictor v2 (JIP-2)** is a GPU-accelerated deep learning pipeline that treats structural anastylosis — the reassembly of collapsed stone monuments — as an **inverse physics problem**. Using Jenga towers as a physically tractable proxy for fallen architectural blocks, the notebook generates a fully synthetic dataset of collapse episodes, trains a multi-task ResNet-18, and reconstructs the original tower configuration from a single image of the ruins.
 
 📄 **Paper:** [GPU-Accelerated Inverse Structural Anastylosis from Block Collapse Dynamics](https://github.com/LuisAlbertoMunozUbando/GPU-Accelerated-Inverse-Structural-Anastylosis-from-Block-Collapse-Dynamics)  
-🏛️ **Institution:** School of Engineering and Sciences, Tecnológico de Monterrey, Mérida, Yucatán  
+🏛️ **Institution:** School of Engineering and Sciences, Tecnológico de Monterrey, Monterrey, Nuevo León.  
 👤 **Author:** L. A. Muñoz Ubando · NVIDIA Ambassador
 
 ---
