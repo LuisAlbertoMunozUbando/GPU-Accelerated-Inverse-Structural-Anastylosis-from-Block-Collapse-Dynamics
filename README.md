@@ -258,7 +258,6 @@ The pipeline is designed to transfer from Jenga to real-world structural anastyl
   title   = {GPU-Accelerated Inverse Structural Anastylosis
              from Block Collapse Dynamics},
   author  = {Mu{\~n}oz Ubando, L.~A.},
-  journal = {Journal of Computational Something},
   year    = {2026},
   note    = {Tecnol{\'o}gico de Monterrey, M{\'e}rida, Yucat{\'a}n, M{\'e}xico}
 }
